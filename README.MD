@@ -10,6 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
+This WordPress Plugin makes all your website's audio files to be downloaded.
+This was designed for a friend who runs a music website and instead of the his visitor's downloading the files, they were forced to listen to it. SO I made this. You can extend this to what ever file type you want to make downloadable.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
